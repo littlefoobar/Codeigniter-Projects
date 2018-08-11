@@ -1,0 +1,32 @@
+.post-date{
+	background:#f4f4f4;
+	padding:4px;
+	margin:3px 0;
+	display:block;
+}
+.post-thumb{
+	width:100%;
+}
+.page-links{
+	margin:30px 0;
+}
+
+.page-links strong{
+	padding: 8px 13px;
+	margin:5px;
+	background:#f4f4f4;
+	border:1px #ccc solid;
+}
+
+a.page-links{
+	padding: 8px 13px;
+	margin:5px;
+	background:#f4f4f4;
+	border:1px #ccc solid;
+}
+.form-group .error{
+	color:red;
+}
+.search-box{
+	margin:10px 0;
+}
